@@ -1,0 +1,24 @@
+{
+  "name": "com.makargames.build-version-incrementor",
+  "version": "1.0.0",
+  "displayName": "Build Version Incrementor",
+  "description": "Prompts to bump PlayerSettings.bundleVersion before each build, preserving suffixes like -beta.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/makarGames/BuildVersionIncrementor#readme",
+  "changelogUrl": "https://github.com/makarGames/BuildVersionIncrementor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/makarGames/BuildVersionIncrementor/blob/main/LICENSE",
+  "keywords": [
+    "build",
+    "version",
+    "editor",
+    "player-settings",
+    "ci",
+    "productivity"
+  ],
+  "author": {
+    "name": "Makar Games",
+    "url": "https://github.com/makarGames"
+  },
+  "license": "MIT",
+  "type": "tool"
+}
