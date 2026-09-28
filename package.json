@@ -1,6 +1,6 @@
 {
   "name": "com.makargames.build-version-incrementor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Build Version Incrementor",
   "description": "Prompts to bump PlayerSettings.bundleVersion before each build, preserving suffixes like -beta.",
   "unity": "2022.3",
